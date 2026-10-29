@@ -88,7 +88,7 @@ An interactive dashboard of Uzbekistan's population: KPI cards, line/bar charts,
 | Project | Description | Links |
 |---|---|---|
 | 🕌 **Mira Arab Oliy Madrasa** | Institutional website: academic information, history and announcements | [miraraboliy.uz](https://miraraboliy.uz/) |
-| 🚕 **Intercity Taxi** | Intercity ride platform with a web app and a Telegram bot for passengers and drivers | [Code](https://github.com/shohijahon07/Intercity_Taxi_Project) |
+| 🚕 **Startup Taxi** | Intercity ride platform with a web app and a Telegram bot for passengers and drivers | [Live](https://startuptaxi-app-project-f3bf3b31abbb.herokuapp.com/) · [Code](https://github.com/shohijahon07/Intercity_Taxi_Project) |
 | 💪 **BodyBalance** | Telegram bot that calculates BMI and obesity level from height and weight | [Code](https://github.com/shohijahon07/BodyBalance) |
 
 ---
