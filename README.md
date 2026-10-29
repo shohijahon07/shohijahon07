@@ -9,6 +9,8 @@
   <a href="https://shohijahonsharifov.uz/"><img src="https://img.shields.io/badge/Portfolio-shohijahonsharifov.uz-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://t.me/shohijahonsharifov"><img src="https://img.shields.io/badge/Telegram-@shohijahonsharifov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:Shohijahonsharifov50@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/shohjahon-sharipov-6454a0326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/OyaELHLC9f/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -120,3 +122,4 @@ Open to freelance projects and full-time roles — web systems for restaurants, 
 - ✈️ **Telegram:** [@shohijahonsharifov](https://t.me/shohijahonsharifov)
 - 📞 **Phone:** +998 95 444 64 46
 - 🌐 **Portfolio:** [shohijahonsharifov.uz](https://shohijahonsharifov.uz/)
+- 💼 **LinkedIn:** [shohjahon-sharipov](https://www.linkedin.com/in/shohjahon-sharipov-6454a0326/)
