@@ -103,7 +103,11 @@ An interactive dashboard of Uzbekistan's population: KPI cards, line/bar charts,
 ## 📊 GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohijahon07&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shohijahon07&theme=github_dark" alt="Repositories per language" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shohijahon07&theme=github_dark" alt="Most commit language" height="165"/>
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=shohijahon07&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
 ---
